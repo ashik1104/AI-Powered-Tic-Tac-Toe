@@ -30,6 +30,6 @@ python main.py
 ```
 
 ## 📸 Screenshot
-Displays output summaries in the terminal when multiple chat log files are present in the 'chat_logs' directory, as well as when a single chat.txt file exists in the project root directory. Invalid files, if any, are listed at the end of the output.
+Tic-Tac-Toe Interface.
 
-![Tic-Tac-Toe Interface](https://github.com/ashik1104/AI-Chat-Log-Summarizer/blob/9410afc72721a711eb308be3866e3de86165799b/Screenshot.png)
+![Tic-Tac-Toe Interface](https://github.com/ashik1104/AI-Powered-Tic-Tac-Toe/blob/14a011a2498ccb97cc5aac5a37000c7cc5447fdf/interface.png)
